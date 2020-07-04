@@ -1,4 +1,4 @@
-/*Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+'''Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
 
 Function Description
 
@@ -18,7 +18,7 @@ space-separated integers contained in the array.
 
 Output Format
 
-Print the integer sum of the elements in the array.*/
+Print the integer sum of the elements in the array.'''
 
 #!/bin/python3
 
