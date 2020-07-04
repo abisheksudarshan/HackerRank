@@ -14,8 +14,6 @@ Return values
     sum of the above two integers
 */
 
-Solution:
-
 def solveMeFirst(a,b):
 	# Hint: Type return a+b below
     return (num1+num2)
