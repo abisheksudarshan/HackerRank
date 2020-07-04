@@ -1,4 +1,4 @@
-/*Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+'''Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
 For example, the square matrix
 
@@ -22,7 +22,20 @@ function in the editor below. It must return an integer representing the absolut
 diagonalDifference takes the following parameter:
 
     arr: an array of integers .
-*/
+
+Input Format
+
+The first line contains a single integer,
+, the number of rows and columns in the matrix .
+Each of the next lines describes a row, , and consists of space-separated integers
+
+.
+
+Constraints
+
+Output Format
+
+Print the absolute difference between the sums of the matrix's two diagonals as a single integer.'''
 
 #!/bin/python3
 
