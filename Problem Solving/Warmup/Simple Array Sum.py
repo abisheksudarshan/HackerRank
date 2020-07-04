@@ -1,4 +1,5 @@
-/*Given an array of integers, find the sum of its elements.
+'''
+Given an array of integers, find the sum of its elements.
 
 For example, if the array
 , , so return
@@ -12,8 +13,20 @@ Complete the simpleArraySum function in the editor below. It must return the sum
 simpleArraySum has the following parameter(s):
 
     ar: an array of integers
-*/
 
+Input Format
+
+The first line contains an integer,
+, denoting the size of the array.
+The second line contains
+
+space-separated integers representing the array's elements.
+
+Constraints
+
+Output Format
+
+Print the sum of the array's elements as a single integer. '''
 #!/bin/python3
 
 import os
