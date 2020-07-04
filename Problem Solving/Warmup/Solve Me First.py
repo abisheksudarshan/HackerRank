@@ -1,4 +1,4 @@
-/*Complete the function solveMeFirst to compute the sum of two integers.
+'''Complete the function solveMeFirst to compute the sum of two integers.
 
 Function prototype:
 
@@ -12,7 +12,7 @@ where,
 Return values
 
     sum of the above two integers
-*/
+'''
 
 def solveMeFirst(a,b):
 	# Hint: Type return a+b below
